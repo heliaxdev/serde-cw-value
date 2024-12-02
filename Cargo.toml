@@ -1,6 +1,6 @@
 [package]
 name = "serde-cw-value"
-version = "0.7.0"
+version = "0.8.0"
 authors = ["arcmx", "Bartłomiej Kuras"]
 edition = "2018"
 
